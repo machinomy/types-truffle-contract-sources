@@ -1,0 +1,16 @@
+{
+  "name": "@machinomy/types-truffle-contract-sources",
+  "version": "0.0.1",
+  "description": "TypeScript declaration for truffle-contract-sources",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machinomy/types-truffle-contract-sources.git"
+  },
+  "author": "Sergey Ukustov <sergey.ukustov@machinomy.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/machinomy/types-truffle-contract-sources/issues"
+  },
+  "homepage": "https://github.com/machinomy/types-truffle-contract-sources#readme",
+}
